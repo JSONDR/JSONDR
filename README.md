@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JSONDR (Jason Rixon)
+- 👋 Hi, I’m @JSONDR
 - 👀 I’m interested in financial markets, trading, cryptocurrencies and programming
-- 🌱 I’m currently learning iOS development and HTML/CSS/Javascript to create my own product which uses various Ethereum Virtual Machines (Ethereum, Polygon, Avalanche, ... etc). 
+- 🌱 In my spare time, I am currently learning iOS development, HTML/CSS/Javascript and patent protection to create my own product which uses various Ethereum Virtual Machines (Ethereum, Polygon, Avalanche, ... etc).
 - 📫 Reach me at rixonjason@hotmail.com
 
 <!---
