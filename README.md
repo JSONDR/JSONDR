@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSONDR
 - 👀 I’m interested in financial markets, cryptocurrencies and programming
-- 🌱 In my spare time, I work on expanding the functionality of my iOS app and website. Looking further into patent protection to protect my product before realse. The product uses various Ethereum Virtual Machines (Ethereum, Polygon, Avalanche, ... etc).
+- 🌱 In my spare time, I work on expanding the functionality of my iOS app and website. Currently looking further into patent protection to protect my product before release.
 - 📫 Reach me at rixonjason@hotmail.com
 
 <!---
