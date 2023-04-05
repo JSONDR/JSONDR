@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in financial markets, cryptocurrencies and programming
-- 🌱 In my spare time, I work on expanding the functionality of my iOS app and website. Currently looking further into patent protection to protect my the protocol used in my iOS app before it releases.
+- 🌱 In my spare time, I work on expanding the functionality of my iOS app and website. I am currently looking further into patent protection to protect the protocol used in my iOS app.
 - 📫 Reach me at rixonjason@hotmail.com
 
 <!---
