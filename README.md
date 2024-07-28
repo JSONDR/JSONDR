@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in a plethora of subjects
-- 🌱 In my spare time, I research and implement
+- 🌱 I research and implement
 - 📫 Reach me at jason@mail.jasonrixon.com
 
 <!---
