@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in a plethora of subjects
-- 🌱 I research and implement
+- 🌱 I research, design, implement and analyze in some order
 - 📫 Reach me at jase@jasonrixon.com
 
 <!---
