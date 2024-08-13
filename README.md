@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in a plethora of subjects
 - 🌱 I research and implement
-- 📫 Reach me at jason@mail.jasonrixon.com
+- 📫 Reach me at jase@jasonrixon.com
 
 <!---
 JSONDR/JSONDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
